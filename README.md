@@ -4,7 +4,10 @@ Statische Vorführfassung einer Website im Entwurfsstadium. **Nicht die
 Livefassung**, nicht freigegeben, nicht indexierbar (`robots.txt` sperrt
 vollständig, jede Seite trägt `noindex`).
 
+Deutsch ohne Präfix, Englisch unter `/en`.
+
 - Rechtstexte enthalten unausgefüllte Platzhalter und sind ungeprüft.
-- Das Kontaktformular versendet nichts, es zeigt nach der Prüfung der
-  Eingaben einen entsprechenden Hinweis.
+- Die englischen Texte sind eine Übersetzung und noch nicht freigegeben.
+  Maßgeblich ist die deutsche Fassung.
+- Das Kontaktformular versendet nichts.
 - Dieses Repository enthält ausschließlich das Bauergebnis, keinen Quelltext.

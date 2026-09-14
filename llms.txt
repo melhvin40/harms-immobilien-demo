@@ -5,8 +5,8 @@
 > Inhaber: Holger Harms. Sitz: Dormagen, Nordrhein-Westfalen, Deutschland.
 
 Stand: 2026-09-14
-Sprache: Deutsch
-Vollständiger Inhalt in einer Datei: https://www.harmsimmobilien.de/llms-full.txt
+Sprachen: Deutsch (maßgeblich, ohne Präfix), Englisch unter /en
+Vollständiger Inhalt in einer Datei: https://www.harmsimmobilien.de/llms-full.txt (Deutsch), https://www.harmsimmobilien.de/llms-full.en.txt (Englisch)
 
 ## Eckdaten
 
@@ -24,9 +24,17 @@ Vollständiger Inhalt in einer Datei: https://www.harmsimmobilien.de/llms-full.t
 
 - [Startseite](https://www.harmsimmobilien.de/): Überblick über die drei Transaktionssäulen Zinshäuser und Mehrfamilienhäuser, Erbbaurecht und Sondersituationen, diskrete Off-Market-Platzierung.
 - [Anlageimmobilien und Zinshäuser](https://www.harmsimmobilien.de/anlageimmobilien-zinshaeuser): Verkauf und strukturierte Bewertung von Wohn- und Geschäftshäusern. Ertragswert- und DCF-basierte Wertermittlung, Liegenschaftszinssatz, Mietspiegel-Delta, Gebäudeenergiegesetz. Enthält eine Überschlagsrechnung zum Ertragswert und eine Vergleichstabelle Off-Market gegenüber öffentlichen Portalen.
-- [Erbbaurecht und Sondersituationen](https://www.harmsimmobilien.de/erbbaurecht-sondersituationen): Wertermittlung von Erbbaurechten, Erbbauzinsanpassung nach § 9a ErbbauRG, Verhandlung mit Stiftungen, Kommunen und kirchlichen Grundstückseigentümern, notleidende Portfolien, Erbengemeinschaften. Enthält eine Rechenhilfe zum Billigkeitsmaßstab des § 9a ErbbauRG.
+- [Erbbaurecht und Sondersituationen](https://www.harmsimmobilien.de/erbbaurecht-sondersituationen): Wertermittlung, Erbbauzinsanpassung nach § 9a ErbbauRG, Verhandlung mit Stiftungen, Kommunen und kirchlichen Grundstückseigentümern, notleidende Portfolien, Erbengemeinschaften. Enthält eine Rechenhilfe zum Billigkeitsmaßstab des § 9a ErbbauRG.
 - [Über Holger Harms](https://www.harmsimmobilien.de/ueber-holger-harms): Werdegang, Qualifikation und Erfahrungswerte.
 - [Kontakt und diskrete Erstberatung](https://www.harmsimmobilien.de/kontakt-diskrete-erstberatung): Anfrageformular und Kontaktdaten.
+
+## Pages in English
+
+- https://www.harmsimmobilien.de/en
+- https://www.harmsimmobilien.de/en/investment-properties
+- https://www.harmsimmobilien.de/en/leasehold-ground-rent
+- https://www.harmsimmobilien.de/en/about-holger-harms
+- https://www.harmsimmobilien.de/en/confidential-consultation
 
 ## Rechtliches
 
