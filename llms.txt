@@ -2,18 +2,29 @@
 
 > Transaktionsberatung und Vermittlung von Anlageimmobilien im Rheinland.
 > Schwerpunkte: Zinshäuser, Wohn- und Geschäftshäuser, Erbbaurechte.
-> Inhaber: Holger Harms. Standort: Dormagen, Nordrhein-Westfalen, Deutschland.
+> Inhaber: Holger Harms. Sitz: Dormagen, Nordrhein-Westfalen, Deutschland.
 
-Tätigkeitsgebiet: Düsseldorf, Köln, Dormagen, Neuss, Kreis Mettmann, Rhein-Kreis Neuss.
-Qualifikation: Kaufmann der Grundstücks- und Wohnungswirtschaft (IHK), Real Estate Management Expert (CCI/IHK).
-Unternehmen geführt seit 2007.
-Vermarktungsprinzip: Off-Market, ohne öffentliche Inserate.
+Stand: 2026-09-14
+Sprache: Deutsch
+Vollständiger Inhalt in einer Datei: https://www.harmsimmobilien.de/llms-full.txt
+
+## Eckdaten
+
+- Unternehmen: HARMS Immobilien
+- Inhaber: Holger Harms
+- Anschrift: Latoursgarten 11, 41542 Dormagen, Deutschland
+- Telefon: +49 171 5544321
+- E-Mail: hh@harmsimmobilien.de
+- Geführt seit: 2007
+- Qualifikation: Kaufmann der Grundstücks- und Wohnungswirtschaft (IHK), Real Estate Management Expert (CCI/IHK)
+- Tätigkeitsgebiet: Düsseldorf, Köln, Dormagen, Neuss, Kreis Mettmann, Rhein-Kreis Neuss
+- Vermarktungsprinzip: Off-Market, ohne öffentliche Inserate
 
 ## Seiten
 
-- [Startseite](https://www.harmsimmobilien.de/): Überblick über die drei Transaktionssäulen Zinshäuser, Erbbaurecht und Off-Market-Platzierung.
-- [Anlageimmobilien und Zinshäuser](https://www.harmsimmobilien.de/anlageimmobilien-zinshaeuser): Verkauf und strukturierte Bewertung von Wohn- und Geschäftshäusern. Ertragswert- und DCF-basierte Wertermittlung, Liegenschaftszinssatz, Mietspiegel-Delta, GEG. Enthält eine Überschlagsrechnung zum Ertragswert.
-- [Erbbaurecht und Sondersituationen](https://www.harmsimmobilien.de/erbbaurecht-sondersituationen): Wertermittlung, Erbbauzinsanpassung nach § 9a ErbbauRG, Verhandlung mit Stiftungen, Kommunen und kirchlichen Grundstückseigentümern, notleidende Portfolien, Erbengemeinschaften. Enthält eine Rechenhilfe zum Billigkeitsmaßstab des § 9a ErbbauRG.
+- [Startseite](https://www.harmsimmobilien.de/): Überblick über die drei Transaktionssäulen Zinshäuser und Mehrfamilienhäuser, Erbbaurecht und Sondersituationen, diskrete Off-Market-Platzierung.
+- [Anlageimmobilien und Zinshäuser](https://www.harmsimmobilien.de/anlageimmobilien-zinshaeuser): Verkauf und strukturierte Bewertung von Wohn- und Geschäftshäusern. Ertragswert- und DCF-basierte Wertermittlung, Liegenschaftszinssatz, Mietspiegel-Delta, Gebäudeenergiegesetz. Enthält eine Überschlagsrechnung zum Ertragswert und eine Vergleichstabelle Off-Market gegenüber öffentlichen Portalen.
+- [Erbbaurecht und Sondersituationen](https://www.harmsimmobilien.de/erbbaurecht-sondersituationen): Wertermittlung von Erbbaurechten, Erbbauzinsanpassung nach § 9a ErbbauRG, Verhandlung mit Stiftungen, Kommunen und kirchlichen Grundstückseigentümern, notleidende Portfolien, Erbengemeinschaften. Enthält eine Rechenhilfe zum Billigkeitsmaßstab des § 9a ErbbauRG.
 - [Über Holger Harms](https://www.harmsimmobilien.de/ueber-holger-harms): Werdegang, Qualifikation und Erfahrungswerte.
 - [Kontakt und diskrete Erstberatung](https://www.harmsimmobilien.de/kontakt-diskrete-erstberatung): Anfrageformular und Kontaktdaten.
 
@@ -26,9 +37,4 @@ Vermarktungsprinzip: Off-Market, ohne öffentliche Inserate.
 
 Die Ertragswert-Überschlagsrechnung ist keine Wertermittlung nach ImmoWertV und kein Gutachten.
 Die Prüfung zum Erbbauzins vergleicht ausschließlich eingegebene Zahlen und ist keine Rechtsberatung.
-Beide Werkzeuge rechnen im Browser des Nutzers; eingegebene Werte werden nicht übertragen oder gespeichert.
-
-## Kontakt
-
-HARMS Immobilien, Latoursgarten 11, 41542 Dormagen, Deutschland.
-Telefon: +49 171 5544321. E-Mail: hh@harmsimmobilien.de
+Beide Werkzeuge rechnen im Browser des Nutzers. Eingegebene Werte werden nicht übertragen und nicht gespeichert.
