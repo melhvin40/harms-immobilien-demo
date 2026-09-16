@@ -1,4 +1,4 @@
-:HL["/harms-immobilien-demo/_next/static/chunks/0w3ruqt9p6_jc.css","style"]
+:HL["/harms-immobilien-demo/_next/static/chunks/1g1g5mm43v9bl.css","style"]
 :HL["/harms-immobilien-demo/fonts/newsreader-latin-300-500.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 :HL["/harms-immobilien-demo/fonts/plexsans-latin-400-600.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"(en)","param":null,"prefetchHints":4144,"slots":{"children":{"name":"en","param":null,"prefetchHints":4160,"slots":{"children":{"name":"about-holger-harms","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"_szInmNXvpp93Jvgkb9gk"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"(en)","param":null,"prefetchHints":4144,"slots":{"children":{"name":"en","param":null,"prefetchHints":4160,"slots":{"children":{"name":"about-holger-harms","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"El4KX4c9bFNxk53t5Vbkp"}
